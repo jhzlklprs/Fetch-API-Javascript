@@ -7,3 +7,15 @@
 h1 {
     text-align: center;
 }
+
+button {
+    margin: 5px;
+}
+
+.form-group input {
+    margin-bottom: 10px;
+}
+
+.form-group textarea {
+    margin-bottom: 10px;
+}
